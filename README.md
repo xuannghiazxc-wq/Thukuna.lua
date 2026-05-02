@@ -1,0 +1,2 @@
+# Thukuna.lua
+Nghiadangcap
